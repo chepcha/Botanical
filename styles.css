@@ -48,6 +48,7 @@ a {
 body {
     font-family: 'IBM Plex Mono', monospace;
     background-color: #EEEEEE;
+     background-image: url("assets/bg.png");
 }
 
 .nav_bar {
