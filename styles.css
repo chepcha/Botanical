@@ -232,4 +232,41 @@ body {
     .intro_text{
         display: none;
     }
+
+    .start_btn{
+        margin: auto;
+    }
+
+    body{
+        background-image: url("assets/bg.png");
+    }
+
+    .flwr_info > h1 {
+        font-size: 25px;
+    }
+    .flwr_info > h2 {
+        font-size: 20px;
+    }
+
+    .cards > a {
+        font-size: 20px;
+    }
+
+    .kvitkovi_text{
+        font-size: 20px;
+    }
+
+    .nav_bar{
+        top: -1;
+        right: 0;
+        width: 500px;
+        margin: auto;
+    }
+
+    header{
+        width: 500px;
+        margin: auto;
+        
+    }
 }
+
